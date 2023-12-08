@@ -63,7 +63,7 @@ export const AddTask = () => {
           // disabled={disabled}
           className="Border-2 shadow-lg"
         >
-          Submit
+          Create New Task
         </Button>
 
         {editingState && (
