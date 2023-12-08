@@ -63,7 +63,7 @@ export const FilterTask = () => {
           onClick={() => handleFilter("")}
           className=""
         >
-          Done Tasks
+          Finished Tasks
         </Button>
         {/* Button to display all Tasks */}
         <Button
