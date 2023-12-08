@@ -53,7 +53,7 @@ export const AddTask = () => {
           onChange={handleInput}
           value={value}
           ref={inputRef}
-          placeholder="Add Task here"
+          placeholder="Task Description here"
           className="shadow-lg focus:bg-[#d9ffb6]"
         />
         <Button
